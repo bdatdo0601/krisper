@@ -69,6 +69,10 @@ typings/
 
 # production
 /build
+/dist
+/package
+
+krisper-*
 
 # misc
 .DS_Store
